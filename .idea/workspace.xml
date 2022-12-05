@@ -88,13 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670265193211</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=",details">
+      <created>1670266064223</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670266064223</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Applikacja bankowa" />
     <MESSAGE value="nicknameGenerator" />
     <MESSAGE value=", switch" />
-    <option name="LAST_COMMIT_MESSAGE" value=", switch" />
+    <MESSAGE value=",details" />
+    <option name="LAST_COMMIT_MESSAGE" value=",details" />
   </component>
 </project>
