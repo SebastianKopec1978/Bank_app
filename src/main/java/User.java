@@ -6,7 +6,7 @@ public class User {
     private String nickname;
     private int pesel;
     private int accountNumber;
-    private double balance = 100;
+    private double balance ;
 
     public User(String name, String surname, int pesel) {
         this.name = name;
