@@ -22,9 +22,10 @@ public class Main {
         System.out.println("Co byś chciał zrobić?");
         int select= scanner.nextInt();
 
-        switch (select){
+        switch (select) {
             case 1:
                 System.out.println("Informacje o koncie");
+                user1.userDetails();
                 break;
             case 2:
                 System.out.println("Wpłata pieniędzy");
@@ -37,5 +38,6 @@ public class Main {
                 break;
 
         }
+
     }
 }
